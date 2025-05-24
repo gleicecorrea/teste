@@ -6,6 +6,8 @@ Criar um Data Flow no SSIS para mover dados do OLTP → STAGING → DW, aplicand
 - E SCD Tipo 2 nas tabelas dimensão.
 
 
+
+
 ### CRIAÇÃO DE UM NOVO PROJETO
 ![image](https://github.com/user-attachments/assets/8ebada86-b945-4ccc-b1ac-702992bd5e31)
 
